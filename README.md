@@ -1,1 +1,1 @@
-Weather-game
+Weather-app
